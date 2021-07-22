@@ -16,37 +16,39 @@
 
 >1.辨識錯誤的功能:
 
-While (輸入錯誤)
+&emsp;&emsp;While (輸入錯誤)
 
-{系統要求再次輸入}
+&emsp;&emsp;&emsp;{系統要求再次輸入}
 
 如輸入正確即可執行下一個步驟
 
 >2.計算投票人數:
 
-   int voters=0
+&emsp;&emsp;   int voters=0
    
-   do
+&emsp;&emsp;   do
    
-{單次投票程序
+&emsp;&emsp;{
 
-voters=voters+1
+&emsp;&emsp;&emsp;&emsp;單次投票程序
 
-}while (使用者決定再次投票)
+&emsp;&emsp;&emsp;&emsp;voters=voters+1
 
-→每一人投票後voters就加一,可計算投票總人數
+&emsp;&emsp;}while (使用者決定再次投票)
+
+&emsp;&emsp;→每一人投票後voters就加一,可計算投票總人數
 
 >3.計算得票數:
 
-  if (年級<=4)
+&emsp;&emsp;if (年級<=4)
   
-  {候選人票數=候選人票數+年級}
+&emsp;&emsp;&emsp;{候選人票數=候選人票數+年級}
   
-  else
+&emsp;&emsp;else
   
-  {候選人票數=候選人票數+0.5票}
+&emsp;&emsp;&emsp;{候選人票數=候選人票數+0.5票}
   
-  如此可計算不同年級的加權票數
+&emsp;&emsp;如此可計算不同年級的加權票數
 
 
 
