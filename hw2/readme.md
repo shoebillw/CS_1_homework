@@ -4,7 +4,7 @@
 
 # 程式流程:
 
-![image](https://user-images.githubusercontent.com/80030514/126834826-402331b0-2dc0-4b8f-8db4-34d9860255ef.png)
+![image](https://user-images.githubusercontent.com/80030514/126835283-689d8d91-8331-466d-8e74-cc52192d9c8d.png)
 
 # 使用說明：
 
